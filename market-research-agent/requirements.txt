@@ -1,0 +1,12 @@
+OpenAI==0.27.0
+langchain==0.0.200
+playwright==1.30.0
+beautifulsoup4==4.12.0
+pdfplumber==0.7.4
+tiktoken==0.3.0
+chromadb==0.3.21
+pinecone-client==2.2.0
+streamlit==1.20.0
+fastapi==0.95.0
+psycopg2-binary==2.9.5
+sqlite3==3.41.1
